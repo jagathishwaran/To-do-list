@@ -1,20 +1,20 @@
 
 ## Title
 
-TG Codes💛--To do list
+To do list
 ## Description 
 
 📝✅ MyToDoList: A responsive to-do list website 🌐📱 built using HTML, CSS, and JS. Save your tasks and data will persist until cleared.
 ## Authors
 
-- [TG💛](https://www.github.com/codesofTG) 
+- [jagathishwaran](https://www.github.com/jagathishwaran) 
 
 
 ## Demo
 
 Live Demo:
 
-    https://codesoftg.github.io/TG-Codes--To-do-list/
+    https://jagathishwaran.github.io/To-do-list/
 ## Getting Started
 
 To explore or modify the code, follow these steps:
@@ -53,14 +53,10 @@ If you have any suggestions, improvements, or bug fixes, feel free to submit a p
 
 For any questions or inquiries, please feel free to reach out. 
 
-TG :
+jagathishwaran :
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tg2691/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagathishwaran-m-172928231)
 
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tg_262001)
-
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_tg.26_)
 
 
 Thank you for visiting the page!
